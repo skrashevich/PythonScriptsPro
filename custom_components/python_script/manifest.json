@@ -1,11 +1,11 @@
 {
   "domain": "python_script",
   "name": "Python Scripts Pro",
-  "documentation": "https://github.com/AlexxIT/PythonScriptsPro",
-  "issue_tracker": "https://github.com/AlexxIT/PythonScriptsPro/issues",
-  "codeowners": ["@AlexxIT"],
+  "documentation": "https://github.com/skrashevich/PythonScriptsPro",
+  "issue_tracker": "https://github.com/skrashevich/PythonScriptsPro/issues",
+  "codeowners": ["@AlexxIT", "@skrashevich"],
   "dependencies": [],
   "requirements": [],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "iot_class": "calculated"
 }
